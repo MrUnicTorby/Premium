@@ -9,7 +9,7 @@ Author:
 ```
 [✯] Login Cookies  
 [✯] Login Token  
-[✯] Cookies/Token Awet  
+[✯] Cookies/Token 
 ```
 #### ⇨  Crack
 ```
