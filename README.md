@@ -44,7 +44,7 @@ $ git pull
 $ cd premium0.1
 $ python elite.py
 ```
-#### ⇨ How To license work
+#### ⇨ How license work
 ```
 Free users can enter any 25-character license key
     |=Everything is limited to free users
