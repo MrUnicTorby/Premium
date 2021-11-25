@@ -37,10 +37,16 @@ $ pip install futures
 $ git clone https://github.com/MrUnicTorby/Premium
  
 ```
-#### ⇨  Menjalankan Script
+#### ⇨  Run Script
 ```
 $ cd Premium
 $ git pull
 $ cd premium0.1
 $ python elite.py
 ```
+#### ⇨ How To license work
+```
+Free users can enter any 25-character license key
+    |=Everything is limited to free users
+Those who want to buy premium, can contect the admin on whatsapp and confirm your key
+    |=There are not any limitation for premium users 
