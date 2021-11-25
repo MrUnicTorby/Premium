@@ -41,7 +41,6 @@ $ git clone https://github.com/MrUnicTorby/Premium
 ```
 $ cd Premium
 $ git pull
-$ cd premium0.1
 $ python elite.py
 ```
 #### ⇨ How license work
